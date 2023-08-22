@@ -4,7 +4,7 @@
 
 PropShare Invest is an application that allows anyone to buy and sell real estate for as little as $1. This project is a part of my submission for the ETHToronto hackathon.
 
-Utilizing the Solidity smart contract language, I've developed a contract that facilitates the creation, transfer, and management of real estate tokens on the Ethereum blockchain.
+Utilizing the Solidity smart contract language, I've developed a contract that facilitates the creation, transfer, and management of real estate tokens on the XDC blockchain.
 
 ## Features
 
